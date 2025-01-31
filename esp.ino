@@ -4,7 +4,7 @@
  * This sketch connects to a WiFi network, fetches battery status from a remote API,
  * and controls an LED and relay based on the battery level.
  *
- * Copyright (c) 2023 itznan. All rights reserved.
+ * Copyright (c) 2025 itznan. All rights reserved.
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
